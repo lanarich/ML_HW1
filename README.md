@@ -26,9 +26,11 @@
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин2.jpg)
 Все работает, сервис выдает нам предсказанное значение
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин3.jpg)
-
+Попробуем воспользоваться запросом post /predict_items. В качестве входных данных подадим файл test.csv. Это тестовый файл, который содержит в себе 10 строк из теста.
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин4.jpg)
+Отлично, респонс 200, все работает.
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин5.jpg)
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин6.jpg)
+Скачиваем файл и убеждаемся, что появился новый столбце с предсказанными значениями цены.
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин7.jpg)
 
