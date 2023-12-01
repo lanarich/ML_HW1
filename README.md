@@ -22,9 +22,11 @@
 Вот как это выглядит:
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин1.jpg)
 
-Попробуем воспользоваться запросом post /predict_item
+Попробуем воспользоваться запросом post /predict_item. В качестве входных данных введем случайное наблюдение из тестового датасета.
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин2.jpg)
+Все работает, сервис выдает нам предсказанное значение
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин3.jpg)
+
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин4.jpg)
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин5.jpg)
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин6.jpg)
