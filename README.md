@@ -21,3 +21,12 @@
 
 Вот как это выглядит:
 ![](https://github.com/lanarich/ML_HW1/blob/main/Скрин1.jpg)
+
+Попробуем воспользоваться запросом post /predict_item
+![](https://github.com/lanarich/ML_HW1/blob/main/Скрин2.jpg)
+![](https://github.com/lanarich/ML_HW1/blob/main/Скрин3.jpg)
+![](https://github.com/lanarich/ML_HW1/blob/main/Скрин4.jpg)
+![](https://github.com/lanarich/ML_HW1/blob/main/Скрин5.jpg)
+![](https://github.com/lanarich/ML_HW1/blob/main/Скрин6.jpg)
+![](https://github.com/lanarich/ML_HW1/blob/main/Скрин7.jpg)
+
